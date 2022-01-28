@@ -9,7 +9,7 @@ const RouteContent = ({Logo, title, path}) => {
 
 
     useEffect(()=>{
-        axios(`http://localhost:8080/${path}`)
+        axios(`https://romsem.herokuapp.com/api/${path}`)
             .then(({data})=> setArr(data))
     },[]);
 

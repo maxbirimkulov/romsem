@@ -1,8 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import Price from "../RouteContent/Price";
 import axios from "axios";
-import Star from "../../../../../assets/icons/star.png";
-import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Navigation } from 'swiper';
 import "swiper/css/navigation"
 import 'swiper/css';
@@ -25,9 +22,9 @@ const SwiperMain = () => {
     };
 
     useEffect(() => {
-        axios(`http://localhost:8080/sets`)
+        axios(`https://romsem.herokuapp.com/api/sets`)
             .then(({ data }) => setSetsCard(data.slice(0, 6)));
-        axios(`http://localhost:8080/pizza`)
+        axios(`https://romsem.herokuapp.com/api/pizza`)
             .then(({ data }) => setPizzaCard(data.slice(0, 6)));
     }, []);
     return (

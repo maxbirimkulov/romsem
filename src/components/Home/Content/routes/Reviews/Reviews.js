@@ -20,7 +20,7 @@ const Reviews = () => {
     const [add, setAdd] = useState(false);
 
     useEffect(() => {
-        axios('http://localhost:8080/reviews')
+        axios('https://romsem.herokuapp.com/api/reviews')
             .then(({data}) => setReview(data))
     },[add]);
     const toDate = (date) => {
@@ -32,7 +32,7 @@ const Reviews = () => {
     };
 
     const addReview = (data) => {
-        axios.post('http://localhost:8080/reviews', data).then(({data}) => setAdd(!data));
+        axios.post('https://romsem.herokuapp.com/api/reviews', data).then(({data}) => setAdd(!data));
         reset();
     };
 

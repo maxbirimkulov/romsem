@@ -1,5 +1,4 @@
-import React,{useEffect, useState, useContext} from 'react';
-import {CustomContext} from "../../../../Context";
+import React,{useEffect, useState} from 'react';
 import './product.css'
 import axios from "axios";
 import {useParams, useNavigate} from 'react-router-dom'

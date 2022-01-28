@@ -6,7 +6,6 @@ import Cart from "./Cart/Cart";
 
 
 const Home = () => {
-    const [cart, setCart] = useState()
     return (
         <section className='home'>
           <SideBar/>
