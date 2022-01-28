@@ -1,0 +1,320 @@
+
+
+
+.home{
+    display: flex;
+}
+
+.home__sidebar{
+    padding: 0 40px 0 50px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+    width: 15%;
+}
+.home__sidebar-top{
+    padding-bottom: 30px;
+    border-bottom: 0.5px solid #A4ACAD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home__sidebar-title{
+    font-family: Nexa,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.home__sidebar-list{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.home__sidebar-list-item{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    padding-left: 30px;
+    position: relative;
+}
+
+.home__sidebar-link{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    transition: .3s;
+    white-space: nowrap;
+}
+
+.home__sidebar-link:hover{
+    transition: .3s;
+    color: #FF9846;
+}
+
+.home__sidebar-link.active{
+    color: #FF9846;
+}
+
+.home__content{
+    width: 65%;
+    background: #F2F2F2;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container{
+    max-width: 990px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.content__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content__header-left{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.content__header-title{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    color: #000000;
+
+}
+
+.content__header-sort{
+    width: 250px;
+    padding: 4px 9px 5px 14px;
+    background-color: white;
+    box-shadow: 0px 0px 18px 6px rgba(0, 0, 0, 0.09);
+    border-radius: 15px ;
+    position: relative;
+    cursor: pointer;
+}
+
+.content__header-sort:hover > .content__header-sort-default span {
+    transform: rotate(180deg);
+    color: #F46D40;
+}
+.content__header-sort:hover{
+    border-radius: 15px 15px 0 0;
+}
+.content__header-sort:hover>.content__header-sort-list{
+    display: flex;
+}
+
+.content__header-sort-list{
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    padding: 0 9px 10px 14px;
+    border-radius: 0 0 15px 15px;
+    flex-direction: column;
+    row-gap: 20px;
+    display: none;
+}
+
+.content__header-sort-line{
+    border: 1px solid #A4ACAD;
+    margin-bottom: 10px;
+}
+
+.content__header-sort-item{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #111111;
+    transition: .3s;
+}
+
+.content__header-sort-item:hover{
+    color: #F46D40;
+    transition: .3s;
+
+}
+
+.content__header-sort-title{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A4ACAD
+}
+
+.content__header-sort-default{
+    font-family: DIN Pro,sans-serif;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #111111;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+.content__row{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 42px;
+    row-gap: 31px;
+    margin-top: 30px;
+}
+
+.content__card{
+    width: calc(33.33333% - 28px);
+    background-color: white;
+    padding: 5px 16px 7px;
+}
+
+.content__card-img{
+    width: 100%;
+    height: 188px;
+}
+
+.content__card-title{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    min-height: 60px;
+}
+
+.content__card-sizes{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    margin-bottom: 15px;
+}
+
+.content__card-size{
+    padding: 5px 10px;
+    border: 1px solid #FF9846 ;
+    color: #FF9846;
+    cursor: pointer;
+}
+
+.content__card-size.active{
+    background-color:#FF9846;
+    color: white;
+}
+
+.content__card-bot{
+    border-top: 1px solid #A4ACAD;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 6px;
+}
+
+.content__card-price{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.content__card-btn{
+    width: 143px;
+    height: 40px;
+    background: #F46D40;
+    border-radius: 5px;
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #F2F2F2;
+    border: none;
+    cursor: pointer;
+}
+
+.content__card-option{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #A4ACAD;
+    margin: 10px 0;
+}
+
+.home__sidebar-soon{
+    position: absolute;
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    justify-content: center;
+    color: #FFFFFF;
+    width: 50px;
+    height: 15px;
+    background: #EB5757;
+    border-radius: 10px;
+    top: -8px;
+    right: 0;
+}
+
+.home__soon-title{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 30px;
+    text-align: center;
+    color: #111111;
+}
+
+.home__soon-subtitle{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    color: #111111;
+    margin: 30px 0;
+}
+.home__soon-img{
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+

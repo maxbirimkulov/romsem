@@ -1,0 +1,234 @@
+.cart {
+    width: 20%;
+    padding: 49px 70px 0 40px;
+}
+
+.cart__card {
+    width: 100%;
+    text-align: center;
+    background: #F2F2F2;
+    border-radius: 5px;
+    padding: 12px 0 7px 0;
+}
+
+.cart__img {
+    width: 100%;
+
+}
+
+.cart__title {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.cart__subtitle {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #A4ACAD;
+    margin-top: 10px;
+}
+
+.cart__free {
+    background: #FF9846;
+    border-radius: 0px 0px 5px 5px;
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F2F2F2;
+    padding: 12px 0;
+    margin: 26px 0 20px;
+}
+
+.cart__btn {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FF9846;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -40%);
+
+}
+
+.cart__basket {
+    min-height: 334px;
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    row-gap: 10px;
+    width: 100%;
+}
+
+.cart__basket-title {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    padding: 10px 0;
+    width: 100%;
+    background-color: #F2F2F2;
+}
+
+.cart__item-count {
+    display: flex;
+    column-gap: 5px;
+    align-items: center;
+}
+
+.cart__item-plus {
+    background-color: #F46D40;
+    width: 19px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 23px;
+
+}
+
+.cart__item-minus {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 23px;
+    cursor: pointer;
+    color: #000000;
+}
+
+.cart__item {
+    display: flex;
+    column-gap: 5px;
+    position: relative;
+    padding-right: 10px;
+}
+
+.cart__item-title {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    margin-bottom: 10px;
+    color: #000000;
+
+}
+
+.cart__item-buy {
+    display: flex;
+    column-gap: 30px;
+}
+
+.cart__item-img {
+    width: 70px;
+    height: 70px;
+}
+
+.cart__item-price {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #000000;
+}
+
+.cart__item-buy {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.cart__list {
+    min-height: 250px;
+}
+
+.cart__basket-bottom {
+    display: flex;
+    column-gap: 20px;
+}
+
+.cart__basket-price {
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+    text-align: right;
+    color: #000000;
+}
+
+.cart__basket-btn{
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #F2F2F2;
+    background-color: #EB5757;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 5px 15px;
+}
+
+.cart__item-delete{
+    position: absolute;
+    top: 0;
+    right: -4px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 18px;
+    color: red;
+}
+
+.cart__list{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}

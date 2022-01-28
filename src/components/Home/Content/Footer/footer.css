@@ -1,0 +1,80 @@
+.footer{
+    margin-top: 60px;
+}
+
+.footer__section{
+    display: flex;
+    justify-content: space-between;
+    border-top: 0.5px solid #A4ACAD;
+    width: 100%;
+    padding: 30px;
+}
+.footer__left{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.footer__mid-svg{
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
+}
+.footer__mid-svg svg{
+    opacity: 50%;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.footer__mid-svg svg:hover{
+    opacity: 100%;
+    transition: 0.3s;
+}
+
+.footer__left-title{
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 100%;
+    color: #000000;
+}
+
+.footer__mid{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    border-right: 0.5px solid #A4ACAD;
+    border-left:  0.5px solid #A4ACAD;
+    padding: 0 40px;
+}
+
+.footer__mid-numberTitle{
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.footer__mid-number{
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #A4ACAD;
+}
+
+.footer__right{
+    display: flex;
+    flex-direction: column;
+}
+.footer__right-title{
+    font-family: DIN Pro, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #A4ACAD;
+}

@@ -1,0 +1,21 @@
+.Express__main-title{
+    font-family: 'DINPro-Medium', sans-serif;
+    font-size: 36px;
+    line-height: 45px;
+    color: #242424;
+    padding: 0;
+    margin-bottom: 29px;
+    letter-spacing: 0.5px;
+}
+
+.Express ul li{
+    list-style-type: disc;
+}
+.Express__bold{
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+.Express__margin{
+    margin-top: 20px;
+}

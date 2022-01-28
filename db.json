@@ -1,0 +1,2494 @@
+{
+  "pizza": [
+    {
+      "id": 0,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+      "title": "Пепперони Фреш с перцем",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 245,
+      "priceMiddle": 399,
+      "priceLarge": 499,
+      "categories": "pizza",
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "title": "Сырная",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 245,
+      "priceMiddle": 399,
+      "priceLarge": 499,
+      "categories": "pizza",
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "title": "Цыпленок барбекю",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 395,
+      "priceMiddle": 599,
+      "priceLarge": 749,
+      "categories": "pizza",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+      "title": "Кисло-сладкий цыпленок",
+      "types": [
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 395,
+      "priceMiddle": 599,
+      "priceLarge": 749,
+      "categories": "pizza",
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+      "title": "Чизбургер-пицца",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+      "title": "Крэйзи пепперони",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 245,
+      "priceMiddle": 399,
+      "priceLarge": 499,
+      "categories": "pizza",
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+      "title": "Пепперони",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+      "title": "Маргарита",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 295,
+      "priceMiddle": 449,
+      "priceLarge": 569,
+      "categories": "pizza",
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+      "title": "Четыре сезона",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+      "title": "Овощи и грибы",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 7
+    }
+  ],
+  "sets": [
+    {
+      "id": 1,
+      "title": "Весна",
+      "count": 68,
+      "combo": [
+        "Филадельфия 10шт",
+        "Хару маки 8шт",
+        "Майами 8шт",
+        "Цезарь 10шт",
+        "Эби чиз ролл 10шт",
+        "Сяке хотто 10",
+        "Чипо 8шт"
+      ],
+      "price": 1190,
+      "categories": "sets",
+      "imageUrl": "https://сушишеф.рф/upload/resize_cache/iblock/0ed/467_361_1/0ed85f7c8a9d107bda72f8d326aaf617.jpg"
+    },
+    {
+      "id": 2,
+      "title": "БигЛайт",
+      "count": 32,
+      "combo": [
+        "Филадельфия 8шт",
+        "Ролл с омлетом 8шт",
+        "Америка 8шт",
+        "Мини ролл с чукой 8шт"
+      ],
+      "price": 690,
+      "categories": "sets",
+      "imageUrl": "https://сушишеф.рф/upload/resize_cache/iblock/436/467_361_1/436e92d0524cf4099a2e23b5593f279b.png"
+    },
+    {
+      "id": 3,
+      "title": "БигЛайт",
+      "count": 32,
+      "combo": [
+        "Филадельфия 8шт",
+        "Ролл с омлетом 8шт",
+        "Америка 8шт",
+        "Мини ролл с чукой"
+      ],
+      "price": 690,
+      "categories": "sets",
+      "imageUrl": "https://xn--e1af0aihvb.xn--p1ai/upload/resize_cache/iblock/fc1/467_361_1/fc11d3382ac036a8aadb049b4590ca0e.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Гармония",
+      "count": 30,
+      "combo": [
+        "Гункан чикен спайси 2шт",
+        "Суши с креветкой 2шт",
+        "Суши с лососем 2шт",
+        "Калифорния 8шт",
+        "Филадельфия 8шт",
+        "Майами 8шт"
+      ],
+      "price": 1050,
+      "categories": "sets",
+      "imageUrl": "https://xn--e1af0aihvb.xn--p1ai/upload/resize_cache/iblock/31a/467_361_1/31a30ea5fac986dab503895b7687d2df.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Лайт",
+      "count": 16,
+      "combo": [
+        "Филадельфия 4шт",
+        "Роллы с омлетом 4шт",
+        "Америка 4шт",
+        "Мини ролл с Чукой 4шт"
+      ],
+      "price": 370,
+      "categories": "sets",
+      "imageUrl": "https://sushi-nyam.ru/img/_s/et/_set_jpg_1429820209.jpg$i$max$700$700$cc$$.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Темпура",
+      "count": 54,
+      "combo": [
+        "Чиз кунсей 10шт",
+        "Америка 10шт",
+        "Унаги темпуро 10шт",
+        "Спайси харумаки 10шт",
+        "Конверты с крабом 4шт",
+        "Сяке хотто 10шт"
+      ],
+      "price": 990,
+      "categories": "sets",
+      "imageUrl": "https://telegra.ph/file/e9ee2b6270fec2dbff32f.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Хит",
+      "count": 40,
+      "combo": [
+        "Чиз кунсей 10шт",
+        "Бонито 10шт",
+        "Чипо 10шт",
+        "Чикен спайси 8шт",
+        "Гункан чикен спайси 2шт"
+      ],
+      "price": 750,
+      "categories": "sets",
+      "imageUrl": "https://fudzhi-sushi.ru/sites/default/files/set_hit.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Суси",
+      "count": 8,
+      "combo": [
+        "2 суши с тунцом",
+        "2 суши с с креветкой",
+        "2 суши с лососем",
+        "2 суши с угрем"
+      ],
+      "price": 790,
+      "categories": "sets",
+      "imageUrl": "https://pp.userapi.com/c841428/v841428889/f481/VZQPlymICbQ.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Ромсем",
+      "count": 58,
+      "combo": [
+        "Ролл с тунцом 10шт",
+        "Филадельфия 10шт",
+        "Дракон 10шт",
+        "Калифорния с ласосем 10шт",
+        "Майами 10шт",
+        "Запеченная филадельфия 8шт"
+      ],
+      "price": 1780,
+      "categories": "sets",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/09/set-8.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Сет «Ассорти»",
+      "count": 35,
+      "combo": [
+        "Филадельфия 4шт",
+        "Калифорния с крабом 4шт",
+        "Чипо 4шт",
+        "Ролл с омлетом 4шт",
+        "Овара 5шт",
+        "Цезарь 5шт",
+        "Америка 5шт",
+        "Запеченный ролл с курицей 4шт"
+      ],
+      "price": 750,
+      "categories": "sets",
+      "imageUrl": "http://taynavkusa.ru/data/catalog/catalog_products/239_1907699657.jpg"
+    }
+  ],
+  "wok": [
+    {
+      "id": 1,
+      "title": "Босо лагман",
+      "price": 365,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLQpM054o5ZNEKgisNNlb1WZaL0CQ0pjl9g&usqp=CAU",
+      "youtube": "https://www.youtube.com/watch?v=bZZWI9NynSM",
+      "ingredients": [
+        "перец",
+        "китайская капуста",
+        "соевый соус",
+        "кунжут чинсай"
+      ],
+      "categories": "WOK"
+    },
+    {
+      "id": 2,
+      "title": "Жидкий лагман",
+      "price": 465,
+      "imageUrl": "https://chef.tm/public/pics/477/477671_0.jpg",
+      "youtube": "https://www.youtube.com/watch?v=LZAnBgtCbKI",
+      "ingredients": [
+        "перец",
+        "китайская капуста",
+        "Кинза",
+        "подлив"
+      ],
+      "categories": "WOK"
+    },
+    {
+      "id": 3,
+      "title": "Могуру лагман",
+      "price": 380,
+      "imageUrl": "https://img.iamcook.ru/2020/upl/recipes/zen/u-3a14c92d8e9672ba05bae99c8fb3aeb8.jpg",
+      "youtube": "https://www.youtube.com/watch?v=1-QpIiIDeuw",
+      "ingredients": [
+        "перец",
+        "китайская капуста",
+        "Кинза",
+        "древесные грибы",
+        "форель",
+        "краб",
+        "древесные грибы",
+        "трюфель"
+      ],
+      "categories": "WOK"
+    },
+    {
+      "id": 4,
+      "title": "Цомян лагман",
+      "price": 265,
+      "imageUrl": "https://static.1000.menu/img/content-v2/70/e3/49449/comyan-jarenyi-lagman-po-uigurski_1596611119_1_max.jpg",
+      "youtube": "https://www.youtube.com/watch?v=i89RnmfYCVY&t=12s",
+      "ingredients": [
+        "Мясо",
+        "Лапша для лагмана готовая",
+        "Лук",
+        "Болгарский перец (красный)",
+        "Пекинская капуста",
+        "Сельдерей стручковый",
+        "Фасоль стручковая (джандо)",
+        "Зелень (лук и листья сельдерея)",
+        "Соевый соуc",
+        "Томатная паста",
+        "Перец острый",
+        "Чеснок",
+        "Соль",
+        "Хаджо",
+        "Черный перец",
+        "Масло растительное"
+      ],
+      "categories": "WOK"
+    },
+    {
+      "id": 5,
+      "title": "Гуйру лагман",
+      "price": 320,
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/33/c7/e6/caption.jpg",
+      "youtube": "https://www.youtube.com/watch?v=eeP6pyuwCCo",
+      "ingredients": [
+        "мясо",
+        "большая луковица",
+        "помидора",
+        "свежий перец",
+        "селдерей",
+        "соль перец по вкусу",
+        "специи для лагмана",
+        "томатная  паста",
+        "соевой соус",
+        "растительное масло"
+      ],
+      "categories": "WOK"
+    }
+  ],
+  "rolls": [
+    {
+      "id": 1,
+      "title": "Дракон",
+      "price": 300,
+      "imageUrl": "https://www.sushi-profi.ru/media_root/products/Rolls-Dragon_BIG.png",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "угорь",
+        "унаги",
+        "соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 2,
+      "title": "Эби маки",
+      "price": 300,
+      "imageUrl": "https://берисуши.рф/uploads/store/product/0ea57b946b7fa3051009dbfc0e577098.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр чеддер",
+        "креветка в темпуре",
+        "огурец",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 3,
+      "title": "Эби чиз ролл",
+      "price": 300,
+      "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/01/Jebi-Chiz-Risnorikrevetka-tigrovajasyr.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр чеддер",
+        "креветка в темпуре",
+        "огурец",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 4,
+      "title": "Фудзияма",
+      "price": 300,
+      "imageUrl": "https://ambar.net.ua/image/data/3098.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "шрирачо",
+        "креветка в темпуре",
+        "огурец",
+        "масаго"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 5,
+      "title": "Ролл с огурцом",
+      "price": 120,
+      "imageUrl": "https://sushiwok.kg/img/38be000f5ecdb570eebfa5e3dc036dd7",
+      "ingredients": [
+        "Огурец",
+        "cыр",
+        "рис"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 6,
+      "title": "Ролл с омлетом",
+      "price": 150,
+      "imageUrl": "https://www.yaponamatrena.ru/upload/iblock/5f6/5f69c9cdc09e4d8e2b0240a7b2f9cd03.jpg",
+      "ingredients": [
+        "Омлет",
+        "cыр",
+        "рис",
+        "нори"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 7,
+      "title": "Чипо",
+      "price": 180,
+      "imageUrl": "https://static.pizzasushiwok.ru/images/menu_new/182-1300.jpg",
+      "ingredients": [
+        "Рис",
+        "цезарь",
+        "соус",
+        "нори",
+        "курица",
+        "сыр пармезан",
+        "помидоры"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 8,
+      "title": "Филадельфия",
+      "price": 902,
+      "imageUrl": "https://sp-ao.shortpixel.ai/client/q_lossless,ret_img/https://cookery.site/wp-content/uploads/2019/12/photo_656723-678x381.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "лосось"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 9,
+      "title": "Овара",
+      "price": 250,
+      "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/owara.jpg",
+      "ingredients": [
+        "Рис",
+        "масаго",
+        "лук",
+        "стружки тунца",
+        "кунжут",
+        "очищенная кожа семги"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 10,
+      "title": "Бонито",
+      "price": 230,
+      "imageUrl": "https://vsem-edu-oblako.ru/upload/store/merchant240/medium/1589551440-IMG_2327(1).png",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "лук",
+        "струж тунца",
+        "кунжут",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 11,
+      "title": "Калифорния с лососем",
+      "price": 295,
+      "imageUrl": "data:image/jpeg;base64,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",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр",
+        "лосось",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 12,
+      "title": "Калифорния с крабом",
+      "price": 295,
+      "imageUrl": "data:image/jpeg;base64,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",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр",
+        "краб",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 13,
+      "title": "Тигровый ролл",
+      "price": 700,
+      "imageUrl": "data:image/jpeg;base64,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",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "лосось",
+        "креветка",
+        "сыр",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 14,
+      "title": " Ролл с тунцом",
+      "price": 700,
+      "imageUrl": "https://user80515.clients-cdnnow.ru/2b-ru/1606816948954_392x320.jpeg",
+      "ingredients": [
+        "тунец",
+        "нори",
+        "огурцы",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 15,
+      "title": "Майами",
+      "price": 700,
+      "imageUrl": "https://plovnroll.ru/wa-data/public/shop/products/34/00/34/images/78/78.720@2x.png",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "угорь",
+        "чеддер",
+        "твор.сыр",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 16,
+      "title": "Мини чиз ролл",
+      "price": 100,
+      "imageUrl": "data:image/jpeg;base64,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",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "унаги",
+        "огурцы",
+        "соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 17,
+      "title": "Унаги спайси ролл",
+      "price": 149,
+      "imageUrl": "https://2marki.ua/wp-content/uploads/2018/04/Spajs-roll-Unagi1.png",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "угорь",
+        "огурцы",
+        "Спайси соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 18,
+      "title": "запеченная Филадельфия",
+      "price": 300,
+      "imageUrl": "https://sushi-trend.ru/img/p/4/4/8/448-home_default_restaurant.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "лосось",
+        "огруец",
+        "майонез"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 19,
+      "title": "Чиккен Спайси",
+      "price": 240,
+      "imageUrl": "https://www.sushi-city.com/media/665/conversions/page.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "болгарский перец",
+        "сыр",
+        "огруец",
+        "фирменный Чиккен спайси соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 20,
+      "title": "запеченные с курицей",
+      "price": 220,
+      "imageUrl": "https://robinroll.ru/683-large_default/zapechennyj-roll-s-kuricej.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "курица",
+        "майонез"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 21,
+      "title": "запеченный Ролл с угрем",
+      "price": 240,
+      "imageUrl": "https://sushira63.ru/wp-content/uploads/2018/05/%D0%97%D0%B0%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D1%8B%D0%B9-%D1%80%D0%BE%D0%BB%D0%BB.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "кунжут",
+        "огруец",
+        "Унаги смесь"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 22,
+      "title": "запеченный Ролл с крабом",
+      "price": 280,
+      "imageUrl": "https://static-sl.insales.ru/images/products/1/1169/197346449/255%D1%80%D0%BE%D0%BB%D0%BB_%D0%97%D0%B0%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8%CC%86_%D0%9A%D1%80%D0%B0%D0%B1.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "cыр",
+        "масаго",
+        "огруец",
+        "канико смесь"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 23,
+      "title": "Сяке",
+      "price": 149,
+      "imageUrl": "https://yukber.uz/image/cache/catalog/5555555555-700x700.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "лосось"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 24,
+      "title": "Мини ролл с крабом",
+      "price": 90,
+      "imageUrl": "https://i.siteapi.org/1g0aP-uNLh2eZ_MPEdPpuCIVMYI=/fit-in/1024x768/center/top/a99ebf267115222.s.siteapi.org/img/2bfeb2c02ac4e9ea9a2273775332da107d4328bb.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "краб",
+        "майонез"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 25,
+      "title": "Мини ролл с чукой",
+      "price": 90,
+      "imageUrl": "https://tula.sushi-mag.com/image/cache/data/2017/may/chuka-500x500_9.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "чука",
+        "кунжут"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 26,
+      "title": "Угани темпура",
+      "price": 210,
+      "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/12/unagi-tempura-1.jpg",
+      "ingredients": [
+        "угорь",
+        "сыр",
+        "нори",
+        "кляр",
+        "понко",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 27,
+      "title": "конверт с крабом",
+      "price": 300,
+      "imageUrl": "https://dandancafe.ru/d/konvert_s_kuritsey.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "помидоры",
+        "краб басай",
+        "унаги соус",
+        "панко",
+        "кляр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 28,
+      "title": "Конверт с лососем",
+      "price": 300,
+      "imageUrl": "http://okinava14.ru/d/konvert_s_semgoy.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр",
+        "помидоры",
+        "лосось",
+        "басай",
+        "унаги соус",
+        "панко",
+        "кляр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 29,
+      "title": "Темпура овощной",
+      "price": 170,
+      "imageUrl": "https://img.iamcook.ru/2018/upl/recipes/zen/u-5fbb87aeb81c054fc61035380863ee94.JPG",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "сыр",
+        "огурцы",
+        "перец",
+        "басай",
+        "панко"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 30,
+      "title": "Хару маки",
+      "price": 490,
+      "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/harumaki.jpg",
+      "ingredients": [
+        "Рис",
+        "спринг",
+        "cыр",
+        "тесто",
+        "огурцы",
+        "сахарная пудра",
+        "банан",
+        "киви",
+        "сироп  шоколадный"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": 31,
+      "title": "Фламинго",
+      "price": 229,
+      "imageUrl": "https://сушиландия.рф/image/cache/catalog/obnovleniemenju/09.21/rollflamingo-500x500.jpg",
+      "ingredients": [
+        "Рис",
+        "маминори",
+        "сахарная пудра",
+        "банан",
+        "киви",
+        "сироп  шоколадный",
+        "cыр"
+      ],
+      "categories": "rolls"
+    }
+  ],
+  "sushi": [
+    {
+      "id": 1,
+      "title": "суши с угрем",
+      "price": 95,
+      "imageUrl": "https://www.gastronom.ru/binfiles/images/00000017/00022168.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "угорь"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": 2,
+      "title": "суши с креветкой",
+      "price": 60,
+      "imageUrl": "https://www.maggi.ru/data/images/recept/img640x500/recept_1203_471f.jpg",
+      "ingredients": [
+        "Рис",
+        "креветка"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": 3,
+      "title": "суши с лососем",
+      "price": 80,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpfYdqp5t6ok86fBWBgW2pP_xQcAXzrcy0b26x302AqTPew9dJFV03Nvhx745FuXk7s28&usqp=CAU",
+      "ingredients": [
+        "Рис",
+        "лосось"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": 4,
+      "title": "Гункан Чиккен спайси",
+      "price": 40,
+      "imageUrl": "https://sushipoima.ru/upload/iblock/4bb/4bb0302c59392dd67a32e3d57f7367f7.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "Чиккен спайси",
+        "огурцы"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": 5,
+      "title": "суши с тунцом",
+      "price": 110,
+      "imageUrl": "https://api.satoshisushi.ru/storage/488916b4c2c0872bb0a9aca13f58bc5d_origin.jpg",
+      "ingredients": [
+        "Рис",
+        "тунец"
+      ],
+      "categories": "sushi"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "imageUrl": "https://expresspizza.kg/image/cache/catalog/1cola-800x800.png",
+      "title": "Кока-кола",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://svetofor.info/images/detailed/197/napitok-fanta-pet-gazirovannyj-15-l-1-sht-113.jpg",
+      "title": "Фанта",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://neman.kg/images/detailed/34/%D0%BB%D0%BE%D0%BB.JPG",
+      "title": "Спрайт",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://goodman.ru/upload/iblock/b8d/Kompot-Vishnevyy.png",
+      "title": "Компот",
+      "price": 120,
+      "categories": "drinks"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://svetofor.info/images/thumbnails/500/500/detailed/204/napitok-pepsi-gazirovannyj-1-l-1-sht.jpg",
+      "title": "Пепси",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://organicspices.ru/wa-data/public/photos/31/00/31/31.970.jpg",
+      "title": "чай черный",
+      "price": 50,
+      "categories": "drinks"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://azbyka.ru/zdorovie/wp-content/uploads/2015/04/200424_1.jpg",
+      "title": "чай зеленый",
+      "price": 50,
+      "categories": "drinks"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://img-global.cpcdn.com/recipes/2e0a6f35f2b0fc56/400x400cq70/photo.jpg",
+      "title": "латте",
+      "price": 180,
+      "categories": "drinks"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://yablyk.com/wp-content/uploads/2021/04/americano-coffee.jpg",
+      "title": "Американо",
+      "price": 160,
+      "categories": "drinks"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://www.nestleprofessional.ru/data/uploads/article_block/image/1011//thumb-5f71edff30d9d.webp",
+      "title": "Капучино",
+      "price": 180,
+      "categories": "drinks"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://www.shoro.kg/wp-content/uploads/2021/04/mineralnaya-voda-legenda-1l.jpg",
+      "title": "вода",
+      "price": 50,
+      "categories": "drinks"
+    }
+  ],
+  "salad": [
+    {
+      "id": 1,
+      "title": "Салат Итальянский",
+      "price": 370,
+      "imageUrl": "https://sergiopizza.ru/upload/iblock/55a/55a7bf9da0c2b44b4d4352af1e8d27f7.png",
+      "ingredients": [
+        "салат Айсберг",
+        "колбаски Салями",
+        "ветчина",
+        "огурцы",
+        "помидоры",
+        "сладкий перец",
+        "маслины",
+        "сыр",
+        "красный лук",
+        "пикантный имбирный соус"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": 2,
+      "title": "Салат Греческий",
+      "price": 330,
+      "imageUrl": "https://www.evrika.od.ua/wp-content/uploads/2018/12/99_main.png",
+      "ingredients": [
+        "Томаты",
+        "огурец",
+        "перец болгарский",
+        "маслины",
+        "сыр «Фета»",
+        "лук репчатый",
+        "масло оливковое"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": 3,
+      "title": "Салат Цезарь",
+      "price": 390,
+      "imageUrl": "https://karsi.zp.ua/wp-content/uploads/2017/10/SalatCezar-500x500-1.png",
+      "ingredients": [
+        "Томат",
+        "сыр твердый",
+        "куриное яйцо",
+        "гренки",
+        "салат айсберг",
+        "филе куриное",
+        "соус цезарь"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": 4,
+      "title": "Салат с курицей",
+      "price": 340,
+      "imageUrl": "https://png.pngtree.com/png-clipart/20190826/ourlarge/pngtree-chicken-salad-png-image_1701085.jpg",
+      "ingredients": [
+        "помидор",
+        "перец",
+        "сладкий перец",
+        "курица",
+        "лук",
+        "салат"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": 5,
+      "title": "Салат куриный с ананасами",
+      "price": 370,
+      "imageUrl": "https://sergiopizza.ru/upload/iblock/576/5765a7a02182977de9150df53da64a09.png",
+      "ingredients": [
+        "салат Айсберг",
+        "куриное филе",
+        "ананасы",
+        "лук Фри",
+        "сыр Пармезан",
+        "соус Цезарь"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": 6,
+      "title": "Салат Овощной",
+      "price": 320,
+      "imageUrl": "https://sergiopizza.ru/upload/iblock/ff7/ff71914037ca126561947bb105f0027f.png",
+      "ingredients": [
+        "салат Айсберг",
+        "огурцы",
+        "помидоры",
+        "сладкий перец",
+        "красный лук",
+        "маслины",
+        "соус с базиликом"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": 7,
+      "title": "Салат Цезарь с курицей",
+      "price": 320,
+      "imageUrl": "https://sergiopizza.ru/upload/iblock/ff7/ff71914037ca126561947bb105f0027f.png",
+      "ingredients": [
+        "салат Айсберг",
+        "куриное филе",
+        "гренки",
+        "маслины",
+        "сыр Пармезан",
+        "соус Цезарь"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": 8,
+      "title": "Салат Цезарь с креветками",
+      "price": 440,
+      "imageUrl": "https://sergiopizza.ru/upload/iblock/9e9/9e9933214f976864468dd3d5747deba3.png",
+      "ingredients": [
+        "салат Айсберг",
+        "обжаренные креветки",
+        "гренки",
+        "маслины",
+        "сыр Пармезан",
+        "соус Цезарь"
+      ],
+      "categories": "salad"
+    }
+  ],
+  "soup": [
+    {
+      "id": 1,
+      "title": "Суп Фо с говядиной",
+      "price": 420,
+      "imageUrl": "https://sergiopizza.ru/upload/iblock/06d/06d85d3654db09f5dd1f5fba631811fa.png",
+      "ingredients": [
+        "бульон",
+        "говядина",
+        "рисовая лапша",
+        "зелень",
+        "красный лук",
+        "ростки Маш"
+      ],
+      "categories": "soup"
+    },
+    {
+      "id": 2,
+      "title": "Суп Фо с курицей",
+      "price": 400,
+      "imageUrl": "https://sergiopizza.ru/upload/iblock/ed8/ed8a38c8a46e7f420915697233f6f94d.png",
+      "ingredients": [
+        "бульон",
+        "курица",
+        "рисовая лапша",
+        "зелень",
+        "красный лук",
+        "ростки Маш"
+      ],
+      "categories": "soup"
+    },
+    {
+      "id": 3,
+      "title": "Биф удон",
+      "price": 320,
+      "imageUrl": "https://romsem.kg/wp-content/uploads/2021/11/IMG_9310_1_.webp",
+      "ingredients": [
+        "лапша",
+        "грибы «Шиитаке»",
+        "говядина",
+        "яйцо",
+        "лук репчатый",
+        "зеленый лук",
+        "удон",
+        "приправа «Дашида»"
+      ],
+      "categories": "soup"
+    },
+    {
+      "id": 4,
+      "title": "Суп Мисо",
+      "price": 340,
+      "imageUrl": "https://romsem.kg/wp-content/uploads/2021/11/IMG_9285_1_.webp",
+      "ingredients": [
+        "мисо паста",
+        "соевый соус",
+        "кальмар",
+        "креветка",
+        "лук",
+        "лапша"
+      ],
+      "categories": "soup"
+    }
+  ],
+  "corndog": [
+    {
+      "id": 1,
+      "title": "Корейский корн дог",
+      "price": 70,
+      "imageUrl": "https://foodies.academy/wp-content/uploads/2019/07/20190708_153601-601x601.jpg",
+      "ingredients": [
+        "Сырная палочка Моцарела или сулугуги 3 шт",
+        "Сосиски 6 шт",
+        "Панировочные сухари Панко 30 гр",
+        "Сахар",
+        "Острый кетчуп",
+        "Медовая горчица"
+      ],
+      "categories": "corndog"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Erlan",
+      "text": "Так вкуснооо!!!",
+      "date": "18.01.22",
+      "id": 1
+    }
+  ],
+  "all": {
+    "pizza": [
+      {
+        "id": 0,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+        "title": "Пепперони Фреш с перцем",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 245,
+        "categories": "pizza",
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+        "title": "Сырная",
+        "types": [
+          0
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 395,
+        "categories": "pizza",
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+        "title": "Цыпленок барбекю",
+        "types": [
+          0
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 395,
+        "categories": "pizza",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+        "title": "Кисло-сладкий цыпленок",
+        "types": [
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 365,
+        "categories": "pizza",
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+        "title": "Чизбургер-пицца",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 415,
+        "categories": "pizza",
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+        "title": "Крэйзи пепперони",
+        "types": [
+          0
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 365,
+        "categories": "pizza",
+        "rating": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+        "title": "Пепперони",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 365,
+        "categories": "pizza",
+        "rating": 9
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+        "title": "Маргарита",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 295,
+        "categories": "pizza",
+        "rating": 10
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+        "title": "Четыре сезона",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 365,
+        "categories": "pizza",
+        "rating": 10
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+        "title": "Овощи и грибы",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "price": 365,
+        "categories": "pizza",
+        "rating": 7
+      }
+    ],
+    "sets": [
+      {
+        "id": 1,
+        "title": "Весна",
+        "count": 68,
+        "combo": [
+          "Филадельфия 10шт",
+          "Хару маки 8шт",
+          "Майами 8шт",
+          "Цезарь 10шт",
+          "Эби чиз ролл 10шт",
+          "Сяке хотто 10",
+          "Чипо 8шт"
+        ],
+        "price": 1190,
+        "categories": "sets",
+        "imageUrl": "https://сушишеф.рф/upload/resize_cache/iblock/0ed/467_361_1/0ed85f7c8a9d107bda72f8d326aaf617.jpg"
+      },
+      {
+        "id": 2,
+        "title": "БигЛайт",
+        "count": 32,
+        "combo": [
+          "Филадельфия 8шт",
+          "Ролл с омлетом 8шт",
+          "Америка 8шт",
+          "Мини ролл с чукой 8шт"
+        ],
+        "price": 690,
+        "categories": "sets",
+        "imageUrl": "https://сушишеф.рф/upload/resize_cache/iblock/436/467_361_1/436e92d0524cf4099a2e23b5593f279b.png"
+      },
+      {
+        "id": 3,
+        "title": "БигЛайт",
+        "count": 32,
+        "combo": [
+          "Филадельфия 8шт",
+          "Ролл с омлетом 8шт",
+          "Америка 8шт",
+          "Мини ролл с чукой"
+        ],
+        "price": 690,
+        "categories": "sets",
+        "imageUrl": "https://xn--e1af0aihvb.xn--p1ai/upload/resize_cache/iblock/fc1/467_361_1/fc11d3382ac036a8aadb049b4590ca0e.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Гармония",
+        "count": 30,
+        "combo": [
+          "Гункан чикен спайси 2шт",
+          "Суши с креветкой 2шт",
+          "Суши с лососем 2шт",
+          "Калифорния 8шт",
+          "Филадельфия 8шт",
+          "Майами 8шт"
+        ],
+        "price": 1050,
+        "categories": "sets",
+        "imageUrl": "https://xn--e1af0aihvb.xn--p1ai/upload/resize_cache/iblock/31a/467_361_1/31a30ea5fac986dab503895b7687d2df.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Лайт",
+        "count": 16,
+        "combo": [
+          "Филадельфия 4шт",
+          "Роллы с омлетом 4шт",
+          "Америка 4шт",
+          "Мини ролл с Чукой 4шт"
+        ],
+        "price": 370,
+        "categories": "sets",
+        "imageUrl": "https://sushi-nyam.ru/img/_s/et/_set_jpg_1429820209.jpg$i$max$700$700$cc$$.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Темпура",
+        "count": 54,
+        "combo": [
+          "Чиз кунсей 10шт",
+          "Америка 10шт",
+          "Унаги темпуро 10шт",
+          "Спайси харумаки 10шт",
+          "Конверты с крабом 4шт",
+          "Сяке хотто 10шт"
+        ],
+        "price": 990,
+        "categories": "sets",
+        "imageUrl": "https://telegra.ph/file/e9ee2b6270fec2dbff32f.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Хит",
+        "count": 40,
+        "combo": [
+          "Чиз кунсей 10шт",
+          "Бонито 10шт",
+          "Чипо 10шт",
+          "Чикен спайси 8шт",
+          "Гункан чикен спайси 2шт"
+        ],
+        "price": 750,
+        "categories": "sets",
+        "imageUrl": "https://fudzhi-sushi.ru/sites/default/files/set_hit.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Суси",
+        "count": 8,
+        "combo": [
+          "2 суши с тунцом",
+          "2 суши с с креветкой",
+          "2 суши с лососем",
+          "2 суши с угрем"
+        ],
+        "price": 790,
+        "categories": "sets",
+        "imageUrl": "https://pp.userapi.com/c841428/v841428889/f481/VZQPlymICbQ.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Ромсем",
+        "count": 58,
+        "combo": [
+          "Ролл с тунцом 10шт",
+          "Филадельфия 10шт",
+          "Дракон 10шт",
+          "Калифорния с ласосем 10шт",
+          "Майами 10шт",
+          "Запеченная филадельфия 8шт"
+        ],
+        "price": 1780,
+        "categories": "sets",
+        "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/09/set-8.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Сет «Ассорти»",
+        "count": 35,
+        "combo": [
+          "Филадельфия 4шт",
+          "Калифорния с крабом 4шт",
+          "Чипо 4шт",
+          "Ролл с омлетом 4шт",
+          "Овара 5шт",
+          "Цезарь 5шт",
+          "Америка 5шт",
+          "Запеченный ролл с курицей 4шт"
+        ],
+        "price": 750,
+        "categories": "sets",
+        "imageUrl": "http://taynavkusa.ru/data/catalog/catalog_products/239_1907699657.jpg"
+      }
+    ],
+    "wok": [
+      {
+        "id": 1,
+        "title": "Босо лагман",
+        "price": 365,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLQpM054o5ZNEKgisNNlb1WZaL0CQ0pjl9g&usqp=CAU",
+        "youtube": "https://www.youtube.com/watch?v=bZZWI9NynSM",
+        "ingredients": [
+          "перец",
+          "китайская капуста",
+          "соевый соус",
+          "кунжут чинсай"
+        ],
+        "categories": "WOK"
+      },
+      {
+        "id": 2,
+        "title": "Жидкий лагман",
+        "price": 465,
+        "imageUrl": "https://chef.tm/public/pics/477/477671_0.jpg",
+        "youtube": "https://www.youtube.com/watch?v=LZAnBgtCbKI",
+        "ingredients": [
+          "перец",
+          "китайская капуста",
+          "Кинза",
+          "подлив"
+        ],
+        "categories": "WOK"
+      },
+      {
+        "id": 3,
+        "title": "Могуру лагман",
+        "price": 380,
+        "imageUrl": "https://img.iamcook.ru/2020/upl/recipes/zen/u-3a14c92d8e9672ba05bae99c8fb3aeb8.jpg",
+        "youtube": "https://www.youtube.com/watch?v=1-QpIiIDeuw",
+        "ingredients": [
+          "перец",
+          "китайская капуста",
+          "Кинза",
+          "древесные грибы",
+          "форель",
+          "краб",
+          "древесные грибы",
+          "трюфель"
+        ],
+        "categories": "WOK"
+      },
+      {
+        "id": 4,
+        "title": "Цомян лагман",
+        "price": 265,
+        "imageUrl": "https://static.1000.menu/img/content-v2/70/e3/49449/comyan-jarenyi-lagman-po-uigurski_1596611119_1_max.jpg",
+        "youtube": "https://www.youtube.com/watch?v=i89RnmfYCVY&t=12s",
+        "ingredients": [
+          "Мясо",
+          "Лапша для лагмана готовая",
+          "Лук",
+          "Болгарский перец (красный)",
+          "Пекинская капуста",
+          "Сельдерей стручковый",
+          "Фасоль стручковая (джандо)",
+          "Зелень (лук и листья сельдерея)",
+          "Соевый соуc",
+          "Томатная паста",
+          "Перец острый",
+          "Чеснок",
+          "Соль",
+          "Хаджо",
+          "Черный перец",
+          "Масло растительное"
+        ],
+        "categories": "WOK"
+      },
+      {
+        "id": 5,
+        "title": "Гуйру лагман",
+        "price": 320,
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/33/c7/e6/caption.jpg",
+        "youtube": "https://www.youtube.com/watch?v=eeP6pyuwCCo",
+        "ingredients": [
+          "мясо",
+          "большая луковица",
+          "помидора",
+          "свежий перец",
+          "селдерей",
+          "соль перец по вкусу",
+          "специи для лагмана",
+          "томатная  паста",
+          "соевой соус",
+          "растительное масло"
+        ],
+        "categories": "WOK"
+      }
+    ],
+    "rolls": [
+      {
+        "id": 1,
+        "title": "Дракон",
+        "price": 300,
+        "imageUrl": "https://www.sushi-profi.ru/media_root/products/Rolls-Dragon_BIG.png",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "угорь",
+          "унаги",
+          "соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 2,
+        "title": "Эби маки",
+        "price": 300,
+        "imageUrl": "https://берисуши.рф/uploads/store/product/0ea57b946b7fa3051009dbfc0e577098.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр чеддер",
+          "креветка в темпуре",
+          "огурец",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 3,
+        "title": "Эби чиз ролл",
+        "price": 300,
+        "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/01/Jebi-Chiz-Risnorikrevetka-tigrovajasyr.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр чеддер",
+          "креветка в темпуре",
+          "огурец",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 4,
+        "title": "Фудзияма",
+        "price": 300,
+        "imageUrl": "https://ambar.net.ua/image/data/3098.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "шрирачо",
+          "креветка в темпуре",
+          "огурец",
+          "масаго"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 5,
+        "title": "Ролл с огурцом",
+        "price": 120,
+        "imageUrl": "https://sushiwok.kg/img/38be000f5ecdb570eebfa5e3dc036dd7",
+        "ingredients": [
+          "Огурец",
+          "cыр",
+          "рис"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 6,
+        "title": "Ролл с омлетом",
+        "price": 150,
+        "imageUrl": "https://www.yaponamatrena.ru/upload/iblock/5f6/5f69c9cdc09e4d8e2b0240a7b2f9cd03.jpg",
+        "ingredients": [
+          "Омлет",
+          "cыр",
+          "рис",
+          "нори"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 7,
+        "title": "Чипо",
+        "price": 180,
+        "imageUrl": "https://static.pizzasushiwok.ru/images/menu_new/182-1300.jpg",
+        "ingredients": [
+          "Рис",
+          "цезарь",
+          "соус",
+          "нори",
+          "курица",
+          "сыр пармезан",
+          "помидоры"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 8,
+        "title": "Филадельфия",
+        "price": 902,
+        "imageUrl": "https://sp-ao.shortpixel.ai/client/q_lossless,ret_img/https://cookery.site/wp-content/uploads/2019/12/photo_656723-678x381.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "лосось"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 9,
+        "title": "Овара",
+        "price": 250,
+        "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/owara.jpg",
+        "ingredients": [
+          "Рис",
+          "масаго",
+          "лук",
+          "стружки тунца",
+          "кунжут",
+          "очищенная кожа семги"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 10,
+        "title": "Бонито",
+        "price": 230,
+        "imageUrl": "https://vsem-edu-oblako.ru/upload/store/merchant240/medium/1589551440-IMG_2327(1).png",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "лук",
+          "струж тунца",
+          "кунжут",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 11,
+        "title": "Калифорния с лососем",
+        "price": 295,
+        "imageUrl": "data:image/jpeg;base64,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",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "лосось",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 12,
+        "title": "Калифорния с крабом",
+        "price": 295,
+        "imageUrl": "data:image/jpeg;base64,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",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "краб",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 13,
+        "title": "Тигровый ролл",
+        "price": 700,
+        "imageUrl": "data:image/jpeg;base64,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",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "лосось",
+          "креветка",
+          "сыр",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 14,
+        "title": " Ролл с тунцом",
+        "price": 700,
+        "imageUrl": "https://user80515.clients-cdnnow.ru/2b-ru/1606816948954_392x320.jpeg",
+        "ingredients": [
+          "тунец",
+          "нори",
+          "огурцы",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 15,
+        "title": "Майами",
+        "price": 700,
+        "imageUrl": "https://plovnroll.ru/wa-data/public/shop/products/34/00/34/images/78/78.720@2x.png",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "угорь",
+          "чеддер",
+          "твор.сыр",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 16,
+        "title": "Мини чиз ролл",
+        "price": 100,
+        "imageUrl": "data:image/jpeg;base64,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",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "унаги",
+          "огурцы",
+          "соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 17,
+        "title": "Унаги спайси ролл",
+        "price": 149,
+        "imageUrl": "https://2marki.ua/wp-content/uploads/2018/04/Spajs-roll-Unagi1.png",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "угорь",
+          "огурцы",
+          "Спайси соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 18,
+        "title": "запеченная Филадельфия",
+        "price": 300,
+        "imageUrl": "https://sushi-trend.ru/img/p/4/4/8/448-home_default_restaurant.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "лосось",
+          "огруец",
+          "майонез"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 19,
+        "title": "Чиккен Спайси",
+        "price": 240,
+        "imageUrl": "https://www.sushi-city.com/media/665/conversions/page.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "болгарский перец",
+          "сыр",
+          "огруец",
+          "фирменный Чиккен спайси соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 20,
+        "title": "запеченные с курицей",
+        "price": 220,
+        "imageUrl": "https://robinroll.ru/683-large_default/zapechennyj-roll-s-kuricej.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "курица",
+          "майонез"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 21,
+        "title": "запеченный Ролл с угрем",
+        "price": 240,
+        "imageUrl": "https://sushira63.ru/wp-content/uploads/2018/05/%D0%97%D0%B0%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D1%8B%D0%B9-%D1%80%D0%BE%D0%BB%D0%BB.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "кунжут",
+          "огруец",
+          "Унаги смесь"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 22,
+        "title": "запеченный Ролл с крабом",
+        "price": 280,
+        "imageUrl": "https://static-sl.insales.ru/images/products/1/1169/197346449/255%D1%80%D0%BE%D0%BB%D0%BB_%D0%97%D0%B0%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8%CC%86_%D0%9A%D1%80%D0%B0%D0%B1.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "масаго",
+          "огруец",
+          "канико смесь"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 23,
+        "title": "Сяке",
+        "price": 149,
+        "imageUrl": "https://yukber.uz/image/cache/catalog/5555555555-700x700.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "лосось"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 24,
+        "title": "Мини ролл с крабом",
+        "price": 90,
+        "imageUrl": "https://i.siteapi.org/1g0aP-uNLh2eZ_MPEdPpuCIVMYI=/fit-in/1024x768/center/top/a99ebf267115222.s.siteapi.org/img/2bfeb2c02ac4e9ea9a2273775332da107d4328bb.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "краб",
+          "майонез"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 25,
+        "title": "Мини ролл с чукой",
+        "price": 90,
+        "imageUrl": "https://tula.sushi-mag.com/image/cache/data/2017/may/chuka-500x500_9.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "чука",
+          "кунжут"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 26,
+        "title": "Угани темпура",
+        "price": 210,
+        "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/12/unagi-tempura-1.jpg",
+        "ingredients": [
+          "угорь",
+          "сыр",
+          "нори",
+          "кляр",
+          "понко",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 27,
+        "title": "конверт с крабом",
+        "price": 300,
+        "imageUrl": "https://dandancafe.ru/d/konvert_s_kuritsey.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "помидоры",
+          "краб басай",
+          "унаги соус",
+          "панко",
+          "кляр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 28,
+        "title": "Конверт с лососем",
+        "price": 300,
+        "imageUrl": "http://okinava14.ru/d/konvert_s_semgoy.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "помидоры",
+          "лосось",
+          "басай",
+          "унаги соус",
+          "панко",
+          "кляр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 29,
+        "title": "Темпура овощной",
+        "price": 170,
+        "imageUrl": "https://img.iamcook.ru/2018/upl/recipes/zen/u-5fbb87aeb81c054fc61035380863ee94.JPG",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "огурцы",
+          "перец",
+          "басай",
+          "панко"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 30,
+        "title": "Хару маки",
+        "price": 490,
+        "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/harumaki.jpg",
+        "ingredients": [
+          "Рис",
+          "спринг",
+          "cыр",
+          "тесто",
+          "огурцы",
+          "сахарная пудра",
+          "банан",
+          "киви",
+          "сироп  шоколадный"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 31,
+        "title": "Фламинго",
+        "price": 229,
+        "imageUrl": "https://сушиландия.рф/image/cache/catalog/obnovleniemenju/09.21/rollflamingo-500x500.jpg",
+        "ingredients": [
+          "Рис",
+          "маминори",
+          "сахарная пудра",
+          "банан",
+          "киви",
+          "сироп  шоколадный",
+          "cыр"
+        ],
+        "categories": "rolls"
+      }
+    ],
+    "sushi": [
+      {
+        "id": 1,
+        "title": "суши с угрем",
+        "price": 95,
+        "imageUrl": "https://www.gastronom.ru/binfiles/images/00000017/00022168.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "угорь"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 2,
+        "title": "суши с креветкой",
+        "price": 60,
+        "imageUrl": "https://www.maggi.ru/data/images/recept/img640x500/recept_1203_471f.jpg",
+        "ingredients": [
+          "Рис",
+          "креветка"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 3,
+        "title": "суши с лососем",
+        "price": 80,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpfYdqp5t6ok86fBWBgW2pP_xQcAXzrcy0b26x302AqTPew9dJFV03Nvhx745FuXk7s28&usqp=CAU",
+        "ingredients": [
+          "Рис",
+          "лосось"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 4,
+        "title": "Гункан Чиккен спайси",
+        "price": 40,
+        "imageUrl": "https://sushipoima.ru/upload/iblock/4bb/4bb0302c59392dd67a32e3d57f7367f7.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "Чиккен спайси",
+          "огурцы"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 5,
+        "title": "суши с тунцом",
+        "price": 110,
+        "imageUrl": "https://api.satoshisushi.ru/storage/488916b4c2c0872bb0a9aca13f58bc5d_origin.jpg",
+        "ingredients": [
+          "Рис",
+          "тунец"
+        ],
+        "categories": "sushi"
+      }
+    ],
+    "drinks": [
+      {
+        "id": 1,
+        "imageUrl": "https://expresspizza.kg/image/cache/catalog/1cola-800x800.png",
+        "title": "Кока-кола",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://svetofor.info/images/detailed/197/napitok-fanta-pet-gazirovannyj-15-l-1-sht-113.jpg",
+        "title": "Фанта",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://neman.kg/images/detailed/34/%D0%BB%D0%BE%D0%BB.JPG",
+        "title": "Спрайт",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://goodman.ru/upload/iblock/b8d/Kompot-Vishnevyy.png",
+        "title": "Компот",
+        "price": 120,
+        "categories": "drinks"
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://svetofor.info/images/thumbnails/500/500/detailed/204/napitok-pepsi-gazirovannyj-1-l-1-sht.jpg",
+        "title": "Пепси",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://organicspices.ru/wa-data/public/photos/31/00/31/31.970.jpg",
+        "title": "чай черный",
+        "price": 50,
+        "categories": "drinks"
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://azbyka.ru/zdorovie/wp-content/uploads/2015/04/200424_1.jpg",
+        "title": "чай зеленый",
+        "price": 50,
+        "categories": "drinks"
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://img-global.cpcdn.com/recipes/2e0a6f35f2b0fc56/400x400cq70/photo.jpg",
+        "title": "латте",
+        "price": 180,
+        "categories": "drinks"
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://yablyk.com/wp-content/uploads/2021/04/americano-coffee.jpg",
+        "title": "Американо",
+        "price": 160,
+        "categories": "drinks"
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://www.nestleprofessional.ru/data/uploads/article_block/image/1011//thumb-5f71edff30d9d.webp",
+        "title": "Капучино",
+        "price": 180,
+        "categories": "drinks"
+      },
+      {
+        "id": 11,
+        "imageUrl": "https://www.shoro.kg/wp-content/uploads/2021/04/mineralnaya-voda-legenda-1l.jpg",
+        "title": "вода",
+        "price": 50,
+        "categories": "drinks"
+      }
+    ],
+    "salad": [
+      {
+        "id": 1,
+        "title": "Салат Итальянский",
+        "price": 370,
+        "imageUrl": "https://sergiopizza.ru/upload/iblock/55a/55a7bf9da0c2b44b4d4352af1e8d27f7.png",
+        "ingredients": [
+          "салат Айсберг",
+          "колбаски Салями",
+          "ветчина",
+          "огурцы",
+          "помидоры",
+          "сладкий перец",
+          "маслины",
+          "сыр",
+          "красный лук",
+          "пикантный имбирный соус"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 2,
+        "title": "Салат Греческий",
+        "price": 330,
+        "imageUrl": "https://www.evrika.od.ua/wp-content/uploads/2018/12/99_main.png",
+        "ingredients": [
+          "Томаты",
+          "огурец",
+          "перец болгарский",
+          "маслины",
+          "сыр «Фета»",
+          "лук репчатый",
+          "масло оливковое"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 3,
+        "title": "Салат Цезарь",
+        "price": 390,
+        "imageUrl": "https://karsi.zp.ua/wp-content/uploads/2017/10/SalatCezar-500x500-1.png",
+        "ingredients": [
+          "Томат",
+          "сыр твердый",
+          "куриное яйцо",
+          "гренки",
+          "салат айсберг",
+          "филе куриное",
+          "соус цезарь"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 4,
+        "title": "Салат с курицей",
+        "price": 340,
+        "imageUrl": "https://png.pngtree.com/png-clipart/20190826/ourlarge/pngtree-chicken-salad-png-image_1701085.jpg",
+        "ingredients": [
+          "помидор",
+          "перец",
+          "сладкий перец",
+          "курица",
+          "лук",
+          "салат"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 5,
+        "title": "Салат куриный с ананасами",
+        "price": 370,
+        "imageUrl": "https://sergiopizza.ru/upload/iblock/576/5765a7a02182977de9150df53da64a09.png",
+        "ingredients": [
+          "салат Айсберг",
+          "куриное филе",
+          "ананасы",
+          "лук Фри",
+          "сыр Пармезан",
+          "соус Цезарь"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 6,
+        "title": "Салат Овощной",
+        "price": 320,
+        "imageUrl": "https://sergiopizza.ru/upload/iblock/ff7/ff71914037ca126561947bb105f0027f.png",
+        "ingredients": [
+          "салат Айсберг",
+          "огурцы",
+          "помидоры",
+          "сладкий перец",
+          "красный лук",
+          "маслины",
+          "соус с базиликом"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 7,
+        "title": "Салат Цезарь с курицей",
+        "price": 320,
+        "imageUrl": "https://sergiopizza.ru/upload/iblock/ff7/ff71914037ca126561947bb105f0027f.png",
+        "ingredients": [
+          "салат Айсберг",
+          "куриное филе",
+          "гренки",
+          "маслины",
+          "сыр Пармезан",
+          "соус Цезарь"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 8,
+        "title": "Салат Цезарь с креветками",
+        "price": 440,
+        "imageUrl": "https://sergiopizza.ru/upload/iblock/9e9/9e9933214f976864468dd3d5747deba3.png",
+        "ingredients": [
+          "салат Айсберг",
+          "обжаренные креветки",
+          "гренки",
+          "маслины",
+          "сыр Пармезан",
+          "соус Цезарь"
+        ],
+        "categories": "salad"
+      }
+    ],
+    "soup": [
+      {
+        "id": 1,
+        "title": "Суп Фо с говядиной",
+        "price": 420,
+        "imageUrl": "https://sergiopizza.ru/upload/iblock/06d/06d85d3654db09f5dd1f5fba631811fa.png",
+        "ingredients": [
+          "бульон",
+          "говядина",
+          "рисовая лапша",
+          "зелень",
+          "красный лук",
+          "ростки Маш"
+        ],
+        "categories": "soup"
+      },
+      {
+        "id": 2,
+        "title": "Суп Фо с курицей",
+        "price": 400,
+        "imageUrl": "https://sergiopizza.ru/upload/iblock/ed8/ed8a38c8a46e7f420915697233f6f94d.png",
+        "ingredients": [
+          "бульон",
+          "курица",
+          "рисовая лапша",
+          "зелень",
+          "красный лук",
+          "ростки Маш"
+        ],
+        "categories": "soup"
+      },
+      {
+        "id": 3,
+        "title": "Биф удон",
+        "price": 320,
+        "imageUrl": "https://romsem.kg/wp-content/uploads/2021/11/IMG_9310_1_.webp",
+        "ingredients": [
+          "лапша",
+          "грибы «Шиитаке»",
+          "говядина",
+          "яйцо",
+          "лук репчатый",
+          "зеленый лук",
+          "удон",
+          "приправа «Дашида»"
+        ],
+        "categories": "soup"
+      },
+      {
+        "id": 4,
+        "title": "Суп Мисо",
+        "price": 340,
+        "imageUrl": "https://romsem.kg/wp-content/uploads/2021/11/IMG_9285_1_.webp",
+        "ingredients": [
+          "мисо паста",
+          "соевый соус",
+          "кальмар",
+          "креветка",
+          "лук",
+          "лапша"
+        ],
+        "categories": "soup"
+      }
+    ],
+    "corndog": [
+      {
+        "id": 1,
+        "title": "Корейский корн дог",
+        "price": 70,
+        "imageUrl": "https://foodies.academy/wp-content/uploads/2019/07/20190708_153601-601x601.jpg",
+        "ingredients": [
+          "Сырная палочка Моцарела или сулугуги 3 шт",
+          "Сосиски 6 шт",
+          "Панировочные сухари Панко 30 гр",
+          "Сахар",
+          "Острый кетчуп",
+          "Медовая горчица"
+        ],
+        "categories": "corndog"
+      }
+    ]
+  }
+}

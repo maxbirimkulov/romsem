@@ -1,0 +1,198 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 6px 40px 8px 18px;
+    border-bottom: 1px solid #A4ACAD;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.header__left{
+    display: flex;
+    align-items: center;
+}
+
+.header__phone{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 10px;
+    position: relative;
+}
+
+.header__phone::before{
+    position: absolute;
+    content: '';
+    height: 94.5px;
+    width: 1px;
+    background-color: #A4ACAD;
+    right: 0;
+    top: -6px;
+}
+
+.header__phone-title{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #111111;
+}
+.header__phone-tel{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    color: #FF9846;
+    transition: .3s;
+
+}
+.header__phone-tel:hover{
+    color: #111111;
+    transition: .3s;
+}
+
+.header__phone-time{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A4ACAD;
+    margin-top: 5px;
+    display: flex;
+    column-gap: 5px;
+    align-items: center;
+}
+
+.header__address{
+    padding-left: 10px;
+}
+.header__address-title{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A4ACAD;
+    margin-bottom: 4px;
+}
+
+.header__address-city{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+
+}
+
+.header__right{
+    display: flex;
+    column-gap: 69px;
+    align-items: center;
+
+}
+
+.header__list{
+    display: flex;
+    column-gap: 10px;
+}
+
+.header__link{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #111111;
+    transition: .3s;
+}
+
+.header__link:hover{
+     color: #FF9846;
+    transition: .3s;
+}
+.header__link.active{
+     color: #FF9846;
+}
+
+
+.header__search-btn{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+}
+
+.header__search-input{
+    background-color: transparent;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding-left: 5px;
+}
+
+.header__search{
+    position: relative;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.header__search-list{
+    position: absolute;
+    background-color: white;
+    top: calc(100% + 8px);
+    width: calc(100% + 120px);
+    left:-90px ;
+    z-index: 5;
+    padding: 10px 8px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    max-height: 380px;
+    overflow: auto;
+    border-radius: 10px;
+    border: none;
+    -webkit-box-shadow: 0px 0px 16px 0px #000000;
+    box-shadow: 0px 0px 16px 0px #000000;
+}
+.header__search-list-item{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.header__search-list-img{
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.header__search-list-title{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 22px;
+    color: #111111;
+    margin-bottom: 5px;
+}
+
+.header__search-list-price{
+    font-family: DIN Pro,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
