@@ -48,7 +48,7 @@ const Header = () => {
             <div className='header__right'>
                 <ul className='header__list'>
                         <li className='header__list-item'>
-                            <NavLink className='header__link' to='/reviews'>Отзывы</NavLink>
+                            <NavLink className='header__link' to='/review'>Отзывы</NavLink>
                         </li>
                         <li className='header__list-item'>
                             <Link className='header__link' to='/express'>Доставка и оплата</Link>

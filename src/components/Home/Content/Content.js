@@ -39,7 +39,7 @@ const Content = () => {
                             <Route path='sale' element={<Sale/>}/>
                         </Route>
                         <Route path='/:path/product/:id' element={<Product/>}/>
-                        <Route path='/reviews' element={<Reviews/>}/>
+                        <Route path='/review' element={<Reviews/>}/>
                         <Route path='/express' element={<Express/>}/>
                     </Routes>
 
