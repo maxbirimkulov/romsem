@@ -10,7 +10,7 @@ const Header = () => {
 
     const searchHandler = (text) => {
         if (text){
-            axios('http://localhost:8080/all')
+            axios('https://romsem.herokuapp.com/api/all')
                 .then(({data})=> setAll(Object.values(data).reduce((acc, rec)=> {
                     return [...acc, rec.filter((item) => item.title.toUpperCase().startsWith(text.toUpperCase()))]
                 },[]).flat()))
@@ -48,7 +48,7 @@ const Header = () => {
             <div className='header__right'>
                 <ul className='header__list'>
                         <li className='header__list-item'>
-                            <NavLink className='header__link' to='/review'>Отзывы</NavLink>
+                            <NavLink className='header__link' to='/reviews'>Отзывы</NavLink>
                         </li>
                         <li className='header__list-item'>
                             <Link className='header__link' to='/express'>Доставка и оплата</Link>
