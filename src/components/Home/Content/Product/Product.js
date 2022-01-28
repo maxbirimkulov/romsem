@@ -19,10 +19,10 @@ const Product = () => {
     const navigate = useNavigate();
 
     useEffect(() =>{
-        axios(`http://localhost:8080/${path}/${id}`)
+        axios(`https://romsem.herokuapp.com/api/${path}/${id}`)
             .then(({data})=> setProduct(data));
 
-        axios(`http://localhost:8080/${path}`)
+        axios(`https://romsem.herokuapp.com/api/${path}`)
             .then(({data}) => setRec(data.slice(0,6)) )
 
     },[path, id]);
